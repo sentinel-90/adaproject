@@ -6,11 +6,11 @@ function TaskList(props) {
       <button type="button" className="btn btn-primary mb-3">Add task</button>
 
       <div className="list-group">
-        <a href="#" className="list-group-item list-group-item-action">Task 1</a>
-        <a href="#" className="list-group-item list-group-item-action active">Task 2</a>
-        <a href="#" className="list-group-item list-group-item-action">Task 3</a>
-        <a href="#" className="list-group-item list-group-item-action">Task 4</a>
-        <a href="#" className="list-group-item list-group-item-action">Task 5</a>
+        <a href="#" className="list-group-item list-group-item-action">Task 10</a>
+        <a href="#" className="list-group-item list-group-item-action active">Task 20</a>
+        <a href="#" className="list-group-item list-group-item-action">Task 30</a>
+        <a href="#" className="list-group-item list-group-item-action">Task 40</a>
+        <a href="#" className="list-group-item list-group-item-action">Task 50</a>
       </div>
     </div>
   );
