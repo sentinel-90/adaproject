@@ -19,6 +19,7 @@
     "jquery": "^3.1.1",
     "node-sass": "^4.3.0",
     "react-bootstrap": "^0.30.7",
+    "react-medium-editor": "^1.8.1",
     "react-scripts": "0.8.5",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
@@ -31,6 +32,6 @@
   },
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -w"
+    "build": "webpack"
   }
 }
