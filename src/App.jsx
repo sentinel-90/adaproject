@@ -7,7 +7,6 @@ import Team from './components/Team';
 import TaskDetail from './components/TaskDetail';
 import TaskList from './components/TaskList';
 
-import '../node_modules/bootstrap/scss/bootstrap.scss';
 import './screen.scss';
 
 function App(props) {
